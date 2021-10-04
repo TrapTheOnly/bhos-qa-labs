@@ -5,18 +5,18 @@
 - [x] Add an empty README.md file to  the repo
 - [x] Add your basic info in the readme file
 - [x] Submit the repo URL at https://forms.gle/xkLsU3zfe4ytYnT69 
-- [ ] Create a “develop” branch 
-- [ ] See for the purpose of the branch at Git Flow
-- [ ] Create a “feature/lab1” branch
-- [ ] Create a basic Java Gradle project with a single class and single simple method at the “feature/lab1” branch
-- [ ] Recommended IDE for development - IntelliJ IDEA
-- [ ] You can register for the Ultimate version with school emails
-- [ ] Set minimum Java JDK for 11
-- [ ] Learn about JUnit 5 at https://www.vogella.com/tutorials/JUnit/article.html
-- [ ] Write a simple test for the method (created at the previous step) using JUnit
-- [ ] Learn about CI/CD at https://docs.github.com/en/actions/automating-builds-and-tests/about-continuous-integration
-- [ ] Learn about GitHub actions at https://github.com/features/actions
-- [ ] Learn about protected branches at https://docs.github.com/en/enterprise-server@3.0/repositories/configuring-branches-and-merges-in-your-repository/defining-the-mergeability-of-pull-requests/managing-a-branch-protection-rule
+- [x] Create a “develop” branch 
+- [x] See for the purpose of the branch at Git Flow
+- [x] Create a “feature/lab1” branch
+- [x] Create a basic Java Gradle project with a single class and single simple method at the “feature/lab1” branch
+- [x] Recommended IDE for development - IntelliJ IDEA
+- [x] You can register for the Ultimate version with school emails
+- [x] Set minimum Java JDK for 11
+- [x] Learn about JUnit 5 at https://www.vogella.com/tutorials/JUnit/article.html
+- [x] Write a simple test for the method (created at the previous step) using JUnit
+- [x] Learn about CI/CD at https://docs.github.com/en/actions/automating-builds-and-tests/about-continuous-integration
+- [x] Learn about GitHub actions at https://github.com/features/actions
+- [x] Learn about protected branches at https://docs.github.com/en/enterprise-server@3.0/repositories/configuring-branches-and-merges-in-your-repository/defining-the-mergeability-of-pull-requests/managing-a-branch-protection-rule
 - [ ] Protect the “develop” branch with successful GitHub action run
 - [ ] Create a workflow for GitHub action using JUnit test execution
 - [ ] Add “Status badge about the workflow runs” in README.md file
