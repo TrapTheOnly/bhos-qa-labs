@@ -11,4 +11,4 @@ jobs:
         with:
           java-version: 11
       - name: Run tests with Gradle
-        run: gradle test
+        run: cd Week\ 1/QA_Week1 && gradle test
