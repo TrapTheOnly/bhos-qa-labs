@@ -19,8 +19,8 @@
 - [x] Learn about protected branches at https://docs.github.com/en/enterprise-server@3.0/repositories/configuring-branches-and-merges-in-your-repository/defining-the-mergeability-of-pull-requests/managing-a-branch-protection-rule
 - [x] Protect the “develop” branch with successful GitHub action run
 - [x] Create a workflow for GitHub action using JUnit test execution
-- [ ] Add “Status badge about the workflow runs” in README.md file
-- [ ] Details https://docs.github.com/en/actions/automating-builds-and-tests/about-continuous-integration#status-badges-for-workflow-runs 
-- [ ] Create a pull request from “feature/lab1” branch to “develop” branch and see the GitHub action workflow passes successfully
-- [ ] Do not merge the PR until I comment to there
-- [ ] The lab work will be evaluated upon the successful setup
+- [x] Add “Status badge about the workflow runs” in README.md file
+- [x] Details https://docs.github.com/en/actions/automating-builds-and-tests/about-continuous-integration#status-badges-for-workflow-runs 
+- [x] Create a pull request from “feature/lab1” branch to “develop” branch and see the GitHub action workflow passes successfully
+- [x] Do not merge the PR until I comment to there
+- [x] The lab work will be evaluated upon the successful setup
