@@ -1,10 +1,10 @@
-- [ ] Read about version control (git) at https://www.atlassian.com/git/tutorials/what-is-version-control (if you are not familiar)
-- [ ] Learn about Git Flow (multi-purpose branches) at ​​https://www.atlassian.com/git/tutorials/comparing-workflows/gitflow-workflow 
-- [ ] Create a GitHub account at http://github.com/ (if not exists)
-- [ ] Create a public repo with the name bhos-qa-labs
-- [ ] Add an empty README.md file to  the repo
-- [ ] Add your basic info in the readme file
-- [ ] Submit the repo URL at https://forms.gle/xkLsU3zfe4ytYnT69 
+- [x] Read about version control (git) at https://www.atlassian.com/git/tutorials/what-is-version-control (if you are not familiar)
+- [x] Learn about Git Flow (multi-purpose branches) at ​​https://www.atlassian.com/git/tutorials/comparing-workflows/gitflow-workflow 
+- [x] Create a GitHub account at http://github.com/ (if not exists)
+- [x] Create a public repo with the name bhos-qa-labs
+- [x] Add an empty README.md file to  the repo
+- [x] Add your basic info in the readme file
+- [x] Submit the repo URL at https://forms.gle/xkLsU3zfe4ytYnT69 
 - [ ] Create a “develop” branch 
 - [ ] See for the purpose of the branch at Git Flow
 - [ ] Create a “feature/lab1” branch
