@@ -17,7 +17,7 @@
 - [x] Learn about CI/CD at https://docs.github.com/en/actions/automating-builds-and-tests/about-continuous-integration
 - [x] Learn about GitHub actions at https://github.com/features/actions
 - [x] Learn about protected branches at https://docs.github.com/en/enterprise-server@3.0/repositories/configuring-branches-and-merges-in-your-repository/defining-the-mergeability-of-pull-requests/managing-a-branch-protection-rule
-- [ ] Protect the “develop” branch with successful GitHub action run
+- [x] Protect the “develop” branch with successful GitHub action run
 - [ ] Create a workflow for GitHub action using JUnit test execution
 - [ ] Add “Status badge about the workflow runs” in README.md file
 - [ ] Details https://docs.github.com/en/actions/automating-builds-and-tests/about-continuous-integration#status-badges-for-workflow-runs 
