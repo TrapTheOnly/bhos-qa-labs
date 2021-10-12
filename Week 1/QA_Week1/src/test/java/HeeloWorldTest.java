@@ -5,6 +5,6 @@ public class HeeloWorldTest {
     @Test
     void CheckmyMistakes(){
         HeeloWorld task = new HeeloWorld();
-        Assertions.assertEquals(0, task.SsyHello(20));
+        Assertions.assertEquals(0, task.SsyHello(0));
     }
 }
