@@ -4,4 +4,4 @@
 
 A repository, dedicated to the completion of laboratory tasks from Quality Assurance lessons.
 
-![](https://github.com/TrapTheOnly/bhos-qa-labs/actions/workflows/gradle.yml/badge.svg?branch=develop)
+[![Java CI with Gradle](https://github.com/TrapTheOnly/bhos-qa-labs/actions/workflows/gradle.yml/badge.svg?branch=feature%2Flab1)](https://github.com/TrapTheOnly/bhos-qa-labs/actions/workflows/gradle.yml)
