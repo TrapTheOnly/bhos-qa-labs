@@ -2,3 +2,4 @@
 ## Ismail Eyyub
 A repository, dedicated to the completion of laboratory tasks from Quality Assurance lessons.
 
+[![Java CI with Gradle](https://github.com/TrapTheOnly/bhos-qa-labs/actions/workflows/build.yml/badge.svg?branch=feature%2Flab5)](https://github.com/TrapTheOnly/bhos-qa-labs/actions/workflows/build.yml)
