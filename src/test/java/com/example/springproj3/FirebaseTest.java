@@ -22,8 +22,8 @@ public class FirebaseTest {
         Architecture theArch = ArchitectureService.getArchitectureInfo("Basílica de la Sagrada Família");
 
         assert theArch != null;
-        // assertEquals(postedArchitecture.name, theArch.name);
-        // assertEquals(postedArchitecture.architect, theArch.architect);
+        assertEquals(postedArchitecture.name, theArch.name);
+        assertEquals(postedArchitecture.architect, theArch.architect);
     }
 
 }
