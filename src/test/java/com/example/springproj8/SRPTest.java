@@ -26,8 +26,8 @@ public class SRPTest {
     TestRestTemplate restTemplate = new TestRestTemplate();
     HttpHeaders headers = new HttpHeaders();
 
-    public static String username = "vuusale";
-    public static String password = "SuperSecurePassword";
+    public static String username = "ismail";
+    public static String password = "SuchASecurePass";
     public static BigInteger s = new BigInteger("1031322761846613224834536");
     public static BigInteger v = new BigInteger("2510174848470831614633167459448252804347764498751046077923431241562915250457436529316888461164208599573927059863638499424874945406214587637961689657442699");
 
